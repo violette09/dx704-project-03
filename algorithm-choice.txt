@@ -1,0 +1,2 @@
+I chose a UCB-style bandit algorithm because the observed rewards are continuous-valued and bounded, not binary, making Bernoulli/Beta Thompson Sampling inappropriate, while ε-greedy is less efficient due to unnecessary exploration.
+

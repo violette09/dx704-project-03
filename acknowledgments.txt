@@ -1,0 +1,3 @@
+I used ChatGPT (OpenAI) to help understand the assignment instructions and concepts related to bandit algorithms, and to assist with writing and debugging Python code.
+
+No other outside sources or help were used.
